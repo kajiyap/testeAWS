@@ -1,0 +1,30 @@
+
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# MacOS
+.DS_Store
+
+# Linux
+*~
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# AWS Elastic Beanstalk
+.elasticbeanstalk/
+
+# Local IDE configurations
+.vscode/
+.idea/
